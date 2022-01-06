@@ -1,0 +1,22 @@
+{
+  "name": "ghs_qasimka_bwn_abid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ghs_qasimka_bwn_abid",
+  "author": "Abid Hussain",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
